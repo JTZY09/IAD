@@ -42,3 +42,4 @@ Develop an intelligent system capable of:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/digit-detection-dobot.git
+   
