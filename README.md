@@ -23,6 +23,7 @@ Develop an intelligent system capable of:
 - **Python**
 - **TensorFlow/Keras** (for CNN training)
 - **OpenCV** (for noise filtering and image preprocessing)
+- **OpenAI API** (for advanced AI integration)
 
 ## How It Works
 1. **Data Preparation:** 
@@ -42,4 +43,13 @@ Develop an intelligent system capable of:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/digit-detection-dobot.git
-   
+   ```
+
+## Acknowledgments
+We would like to acknowledge the use of the following technologies and APIs that made this project possible:
+- **OpenCV**: For image processing and noise filtering.
+- **TensorFlow/Keras**: For training the CNN model.
+- **OpenAI API**: For AI-driven enhancements and support.
+- **Dobot SDK**: For robotic arm control and automation.
+
+Thank you to the developers and contributors of these tools for enabling cutting-edge AI and computer vision research.
